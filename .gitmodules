@@ -1,0 +1,6 @@
+[submodule "Lottery-Contract"]
+	path = Lottery-Contract
+	url = https://github.com/Swapnil-Parashare/Lottery-Contract
+[submodule "Lottery-React"]
+	path = Lottery-React
+	url = https://github.com/Swapnil-Parashare/Lottery-React
